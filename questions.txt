@@ -1,0 +1,30 @@
+What is the capital of India?
+Mumbai
+Delhi
+Chennai
+Kolkata
+2
+Which language is used for STL?
+Java
+Python
+C++
+C#
+3
+How many bits are in a byte?
+4
+8
+16
+32
+2
+Which keyword is used to create an object in C++ dynamically?
+malloc
+new
+create
+alloc
+2
+Which data structure follows FIFO?
+Stack
+Queue
+Tree
+Graph
+2
